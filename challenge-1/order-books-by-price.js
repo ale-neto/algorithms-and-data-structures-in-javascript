@@ -7,6 +7,7 @@ const cheapestAndExpensiveBooks = require('./cheapest-and-expensive-books.js');
 let booksByCheapest = [...books];
 for (let i = 0; i < booksByCheapest.length; i++) {
   let cheapestBook = cheapestAndExpensiveBooks(booksByCheapest, i).cheapestBook;
+  console.log(cheapestBook, 'cheapestBook')
   let currentBook = booksByCheapest[i];
   let cheapestPrice = booksByCheapest[cheapestBook];
 
