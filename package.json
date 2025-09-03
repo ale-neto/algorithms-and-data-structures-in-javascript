@@ -1,0 +1,19 @@
+{
+  "name": "algorithms-and-data-structures-in-javascript",
+  "version": "1.0.0",
+  "description": "algorithms and data structures in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ale-neto/algorithms-and-data-structures-in-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ale-neto/algorithms-and-data-structures-in-javascript/issues"
+  },
+  "homepage": "https://github.com/ale-neto/algorithms-and-data-structures-in-javascript#readme"
+}
